@@ -5,7 +5,7 @@ const gifStages = [
     "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
     "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
     "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm01ZnQ3OWcweGlnYWw2NWh2YzEyYTFkZXYyd2xvaTU4bmMwOHdlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q9H9Y56MoQY966EXsE/giphy.gif",               // 6 very devastated
+    "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHo0eWc0djRwN2E5bzQ2NW1jNngyanhxMzRxMXBmOG9yZTUzdWRjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif",               // 6 very devastated
     "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
 ]
 
